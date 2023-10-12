@@ -1,46 +1,56 @@
-# Getting Started with Create React App
+# Job Application Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Site:
+ * [Job Application Management System](https://job-application-hub.netlify.app/).
 
-## Available Scripts
+## Project Description:
+The Job Application Management System is a web application developed using React and Ant Design that streamlines the process of managing job applications and the applicants. This system provides a user-friendly interface to efficiently track, filter, and manage job applicants.
 
-In the project directory, you can run:
+## Key Features:
 
-### `npm start`
+### 1. Application Overview:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Easily track the number of applicants for each job opening.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 2. Status-Based Filtering:
 
-### `npm test`
+* Filter applicants based on their application status, including "Applied," "Shortlisted," "Technical Interview," "Opportunity Browsing," "Video Interview I," "Video Interview II," "Video Interview III," "Other," and "Withdrawn."
+* View applicants associated with a specific status with a simple dropdown selection.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. Search Functionality:
 
-### `npm run build`
+* Search for applicants based on various criteria, including education, user name, experience, and tags.
+* Provides quick access to specific applicants with relevant qualifications.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 4. Applicant Listing:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Display a list of applicants based on the selected filter criteria.
+* View applicants who have applied, been shortlisted, or reached various stages in the application process.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 5. Qualification Status:
 
-### `npm run eject`
+* Categorize applicants as "Qualified," "Disqualified," or "In Progress (Task)."
+* Efficiently track the status of each applicant's application journey.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### 6. Checkbox Selection:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Select individual applicants by checking the corresponding checkboxes.
+* Use a universal checkbox to select all applicants at once, simplifying batch actions.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Technologies Used:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* React: For building a responsive and interactive user interface.
+* Ant Design: For designing a clean and modern user interface with components and styles.
+* JavaScript: To add functionality to the application.
 
-## Learn More
+## Benefits:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Enhances organization and efficiency in managing job applications.
+* Improves the ability to monitor applicant progress through the hiring pipeline.
+* Provides quick access to applicant details based on different criteria.
+* Simplifies the process of performing actions on multiple applicants simultaneously.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Conclusion:
+The Job Application Management System is a powerful tool for HR professionals and hiring managers to manage and streamline the job application process. It offers a feature-rich, user-friendly experience, allowing for efficient and organized applicant tracking, filtering, and management. This system simplifies the complex task of handling numerous job applications, ensuring that your hiring process is both structured and productive.
+
+## Screenshots
