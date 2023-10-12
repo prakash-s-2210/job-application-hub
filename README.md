@@ -54,3 +54,7 @@ The Job Application Management System is a web application developed using React
 The Job Application Management System is a powerful tool for HR professionals and hiring managers to manage and streamline the job application process. It offers a feature-rich, user-friendly experience, allowing for efficient and organized applicant tracking, filtering, and management. This system simplifies the complex task of handling numerous job applications, ensuring that your hiring process is both structured and productive.
 
 ## Screenshots
+
+https://github.com/prakash-s-2210/job-application-hub/assets/94909544/98d22c34-820f-43af-b5cd-7ee337ce9b68
+
+![Job Application Hub](https://github.com/prakash-s-2210/job-application-hub/assets/94909544/e1af5b69-0b57-4490-b9f4-2c9cc7056421)
